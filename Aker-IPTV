@@ -1,0 +1,47 @@
+#EXTM3U
+EXTINF:-1,[AFR] Africa TV 1
+http://134.19.181.172:8000/live/mm34/mm34/1745.ts
+EXTINF:-1,[AFR] Africa TV 2
+http://134.19.181.172:8000/live/mm34/mm34/2009.ts
+EXTINF:-1,[AFR] Africa TV 3
+http://134.19.181.172:8000/live/mm34/mm34/2010.ts
+EXTINF:-1,[AFR] Africa TV 4
+http://134.19.181.172:8000/live/mm34/mm34/1751.ts
+EXTINF:-1,[AFR] Amhara TV
+http://134.19.181.172:8000/live/mm34/mm34/1804.ts
+EXTINF:-1,[AFR] Ben Nigeria
+http://134.19.181.172:8000/live/mm34/mm34/2130.ts
+EXTINF:-1,[AFR] ESTV
+http://134.19.181.172:8000/live/mm34/mm34/205.ts
+EXTINF:-1,[AFR] ETV
+http://134.19.181.172:8000/live/mm34/mm34/1638.ts
+EXTINF:-1,[AFR] Eritrea TV
+http://134.19.181.172:8000/live/mm34/mm34/266.ts
+EXTINF:-1,[AFR] Horn Cable
+http://134.19.181.172:8000/live/mm34/mm34/1963.ts
+EXTINF:-1,[AFR] Kalsan
+http://134.19.181.172:8000/live/mm34/mm34/1938.ts
+EXTINF:-1,[AFR] Kana TV
+http://134.19.181.172:8000/live/mm34/mm34/235.ts
+EXTINF:-1,[AFR] Nollywood
+http://134.19.181.172:8000/live/mm34/mm34/2131.ts
+EXTINF:-1,[AFR] Oromia TV
+http://134.19.181.172:8000/live/mm34/mm34/676.ts
+EXTINF:-1,[AFR] RTD Djibouti
+http://134.19.181.172:8000/live/mm34/mm34/2257.ts
+EXTINF:-1,[AFR] SLNTV
+http://134.19.181.172:8000/live/mm34/mm34/1939.ts
+EXTINF:-1,[AFR] SNTV
+http://134.19.181.172:8000/live/mm34/mm34/753.ts
+EXTINF:-1,[AFR] Somali Cable
+http://134.19.181.172:8000/live/mm34/mm34/528.ts
+EXTINF:-1,[AFR] Somaliland (SLN TV)
+http://134.19.181.172:8000/live/mm34/mm34/754.ts
+EXTINF:-1,[AFR] Southern Ethiopia TV
+http://134.19.181.172:8000/live/mm34/mm34/1654.ts
+EXTINF:-1,[AFR] Tele Tchad
+http://134.19.181.172:8000/live/mm34/mm34/2659.ts
+EXTINF:-1,[AFR] Tigrai TV
+http://134.19.181.172:8000/live/mm34/mm34/2622.ts
+EXTINF:-1,[AFR] Universal Somali
+http://134.19.181.172:8000/live/mm34/mm34/755.ts
